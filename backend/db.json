@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "note@gmail.com",
+      "name": "note",
+      "passwordHash": "$2b$10$x9nuTnGyQl4hAzTfIE.QkOtirqX5Njtp2NAGFaGhwb12Ks5B80gnK"
+    },
+    {
+      "id": 2,
+      "email": "user@gmail.com",
+      "name": "Miguel Torres Villalba",
+      "passwordHash": "$2b$10$1ydVjCpaC6D6sdZHrZnsxu2MTNx4LuOEre4oRoXh5sxjOM5KvjZxe"
+    },
+    {
+      "id": 3,
+      "email": "use@gmail.com",
+      "name": "Miguel Torres Villalba",
+      "passwordHash": "$2b$10$9/Qv7MJBe3JGR88bhY4hzufTjGEphg9kgPaNpYPKGgytZM/NiKZ42"
+    }
+  ],
+  "reservations": [
+    {
+      "client": "Miguel",
+      "date": "2026-02-21",
+      "pax": 5,
+      "id": 2
+    },
+    {
+      "id": 4,
+      "client": "Note",
+      "date": "2026-03-06",
+      "pax": 6,
+      "userId": 3
+    },
+    {
+      "id": 5,
+      "client": "note",
+      "date": "2026-12-12",
+      "pax": 4,
+      "userId": 1
+    }
+  ]
+}
