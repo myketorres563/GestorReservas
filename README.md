@@ -13,17 +13,6 @@
 
 > Un sistema de gestión de reservas integral construido con React, TypeScript y Vite, diseñado para agilizar el proceso de reserva para empresas y particulares.
 
-## Tabla de Contenido
-1. [Descripción](#descripcion)
-2. [Demo/Capturas de Pantalla](#democapturas-de-pantalla)
-3. [Características](#caracteristicas)
-4. [Pila de Tecnologías](#pila-de-tecnologias)
-5. [Estructura del Proyecto](#estructura-del-proyecto)
-6. [Requisitos Previos](#requisitos-previos)
-7. [Instalación](#instalacion)
-8. [Uso](#uso)
-9. [Contribución](#contribucion)
-10. [Licencia](#licencia)
 
 ## Descripción
 Gestion Reservas es un sistema de gestión de reservas de código abierto que permite a los usuarios gestionar las reservas de manera eficiente. El sistema está construido con una interfaz de usuario amigable, lo que facilita a las empresas y particulares realizar un seguimiento y gestión de sus reservas.
