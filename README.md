@@ -17,9 +17,6 @@
 ## Descripción
 Gestion Reservas es un sistema de gestión de reservas de código abierto que permite a los usuarios gestionar las reservas de manera eficiente. El sistema está construido con una interfaz de usuario amigable, lo que facilita a las empresas y particulares realizar un seguimiento y gestión de sus reservas.
 
-## Demo/Capturas de Pantalla
-No hay demo ni capturas de pantalla disponibles en este momento.
-
 ## Características
 - 🎯 **Gestión de Reservas**: Gestione las reservas con facilidad, incluyendo la creación, edición y eliminación de reservas.
 - ⚡ **Actualizaciones en Tiempo Real**: Reciba actualizaciones en tiempo real sobre el estado de las reservas, lo que le permite mantenerse informado y actualizado.
